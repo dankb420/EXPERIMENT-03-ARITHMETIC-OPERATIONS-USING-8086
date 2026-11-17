@@ -137,9 +137,6 @@ HLT
 | BL | 04H |
 
 **Result:** 09H - 04H = 05H.
-<img width="251" height="122" alt="image" src="https://github.com/user-attachments/assets/f28a5063-bedb-449f-a8eb-76906b793eb0" />
-
-
 ## EXPERIMENT 3: MULTIPLICATION
 
 ### AIM:
