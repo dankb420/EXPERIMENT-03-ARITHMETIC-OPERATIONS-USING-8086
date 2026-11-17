@@ -105,6 +105,9 @@ HLT
 
 **Result:** 05H + 03H = 08H.
 
+
+
+
 ## EXPERIMENT 2: SUBTRACTION
 
 ### AIM:
@@ -134,6 +137,8 @@ HLT
 | BL | 04H |
 
 **Result:** 09H - 04H = 05H.
+<img width="251" height="122" alt="image" src="https://github.com/user-attachments/assets/f28a5063-bedb-449f-a8eb-76906b793eb0" />
+
 
 ## EXPERIMENT 3: MULTIPLICATION
 
@@ -165,6 +170,8 @@ HLT
 | AX | 0014H |
 
 **Result:** 05H × 04H = 14H.
+<img width="236" height="117" alt="image" src="https://github.com/user-attachments/assets/82d340ed-37b1-4c3c-938e-4a29cf274393" />
+
 
 ## EXPERIMENT 4: DIVISION
 
@@ -197,29 +204,32 @@ HLT
 
 **Result:** 14H ÷ 04H = 05H, Remainder = 00H.
 
+
+
 ## OUTPUT OF SIMULATION:
 
 ### FIGURE-01: ADDITION OUTPUT
 
-Upload the addition program execution screenshot here.
+<img width="266" height="133" alt="image" src="https://github.com/user-attachments/assets/c3016bb2-51e9-48b9-aa56-24ed2c5f725d" />
 
 ![Addition Output](img/addition.png)
 
 ### FIGURE-02: SUBTRACTION OUTPUT
 
-Upload the subtraction program execution screenshot here.
+<img width="251" height="122" alt="image" src="https://github.com/user-attachments/assets/f28a5063-bedb-449f-a8eb-76906b793eb0" />
+
 
 ![Subtraction Output](img/subtraction.png)
 
 ### FIGURE-03: MULTIPLICATION OUTPUT
 
-Upload the multiplication program execution screenshot here.
+<img width="236" height="117" alt="image" src="https://github.com/user-attachments/assets/82d340ed-37b1-4c3c-938e-4a29cf274393" />
 
 ![Multiplication Output](img/multiplication.png)
 
 ### FIGURE-04: DIVISION OUTPUT
 
-Upload the division program execution screenshot here.
+<img width="237" height="121" alt="image" src="https://github.com/user-attachments/assets/282b02b9-ef68-4360-8594-3521f7b97e14" />
 
 ![Division Output](img/division.png)
 
